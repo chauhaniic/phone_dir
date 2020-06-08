@@ -1,2 +1,2 @@
 # phone_dir
-Phone directory using html and css
+Phone directory using JS, html and css
